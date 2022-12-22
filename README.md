@@ -5,7 +5,7 @@
 
 歡迎大家踴躍提供最新資源或是提供教學，您可以:
 
-* 使用 Issues 提出疑問
+* 使用 [Issues](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/issues) 提出疑問
 * 使用 Pull Request 提交新內容
 
 若您不習慣Github系統，您可以:
