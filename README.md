@@ -10,11 +10,11 @@
 
 若您不習慣Github系統，您可以:
 
-* 使用 此表單 進行投稿
+* 使用 [此表單](https://forms.gle/ggS9xDQpo5W9wkV9A) 進行投稿
 
 ## Vtuber 動畫製作
 
-### Live2D(L2D) Cubism
+### [Live2D Cubism](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/tree/main/Live2D-Cubism)
 
 ## Vtuber 面捕軟體
 
