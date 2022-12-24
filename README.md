@@ -36,7 +36,7 @@
 
 ## OBS插件
 
-### 多平台實況(obs-multi-rtmp)  (🚧施工中)
+### [多平台實況(obs-multi-rtmp) ](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/tree/main/obs-multi-rtmp)
 
 ## 斗內金流
 
