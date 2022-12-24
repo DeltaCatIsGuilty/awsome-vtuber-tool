@@ -21,6 +21,8 @@
 
 [三步做伪3d铃铛。](https://t.bilibili.com/483408219957695138?tab=2) from [MIGGY](https://space.bilibili.com/6831312/dynamic?spm_id_from=444.42.list.card_title.click)
 
+[【密技】恋乃夜まい的動態怎麼做的? 現役模型師分析文](https://forum.gamer.com.tw/C.php?bsn=60608&snA=3241&page=1&gothis=39321#39321) from [zda](https://home.gamer.com.tw/homeindex.php?owner=pomani)
+
 ## 影片教學
 
 [Live2d Tutorial (英文)](https://www.youtube.com/playlist?list=PL3sGye8NKCQ-DHy01xNkRLSKlzZ5VPL6z) from [Enma Akatsuki](https://www.youtube.com/@enmaakatsuki)
