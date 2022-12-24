@@ -1,11 +1,11 @@
 # Awsome vtuber tool ｜ Vtuber工具大全
->此文件為整理所有Vtuber會使用到的工具大全
+>此專案為整理所有Vtuber會使用到的工具大全
 
 >如果你覺得內容還不錯的話不妨幫這個專案按個星星⭐喔 owob
 
 ## 特別感謝
 
-特別感謝 [軍頭鮭烈｜ロキLOKI](軍頭鮭烈｜ロキLOKI) 提供前期參考資料
+特別感謝 [軍頭鮭烈｜ロキLOKI](軍頭鮭烈｜ロキLOKI) 擔任本專案顧問及技術支援
 
 ## 參與專案
 
@@ -21,6 +21,7 @@
 ## Vtuber 動畫製作
 
 ### [Live2D Cubism](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/tree/main/Live2D-Cubism)
+### [拆圖](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/tree/main/%E6%8B%86%E5%9C%96)
 
 ## Vtuber 面捕軟體
 
