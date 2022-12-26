@@ -1,6 +1,6 @@
 # Live2D Cubism 
 
->以下部分內容來自zda老師撰寫之[文章](https://forum.gamer.com.tw/C.php?bsn=60608&snA=3363)
+>以下部分內容來自zda老師撰寫之[文章](https://forum.gamer.com.tw/C.php?bsn=60608&snA=3363)，已獲得轉載授權
 
 >[官方中文網站(簡體)](https://forum.gamer.com.tw/C.php?bsn=60608&snA=3363)
 
