@@ -38,6 +38,13 @@
 
 ### [多平台實況(obs-multi-rtmp) ](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/tree/main/obs-multi-rtmp)
 
+## 多人合作
+>跳跳的功能主要在通話時自動閃爍說話者的圖片，為一種較簡單的合作方式
+
+### 跳跳(Reactive Image)(🚧施工中)
+### 跳跳(Discord Streamkit)(🚧施工中)
+### V皮連動(vdo.ninja)(🚧施工中)
+
 ## 斗內金流
 
 ### 綠界ECPay  (🚧施工中)
