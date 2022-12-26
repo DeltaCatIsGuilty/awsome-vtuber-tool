@@ -1,7 +1,7 @@
 # 多平台實況(obs-multi-rtmp)
 
->[官方網站(日文)](https://sorayuki.github.io/obs-multi-rtmp/)
->[官方Github](https://github.com/sorayuki/obs-multi-rtmp)
+>[官方網站(日文)](https://sorayuki.github.io/obs-multi-rtmp/) <br>
+>[官方Github](https://github.com/sorayuki/obs-multi-rtmp) <br>
 >[插件載點](https://github.com/sorayuki/obs-multi-rtmp/releases)
 
 ## 簡介
