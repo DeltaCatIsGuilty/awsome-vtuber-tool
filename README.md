@@ -44,7 +44,7 @@
 
 ### 跳跳(Reactive Image)  (🚧施工中)
 ### 跳跳(Discord Streamkit)  (🚧施工中)
-### V皮連動(vdo.ninja)  (🚧施工中)
+### [V皮連動(vdo.ninja)](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/tree/main/vdo.ninja)
 
 ## 斗內金流
 
