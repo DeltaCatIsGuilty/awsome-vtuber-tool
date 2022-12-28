@@ -1,6 +1,6 @@
 # 拆圖
 >Q：為甚麼要進行拆圖? <br>
->A：拆圖是一個在進行L2D模型製作前一個極為重要的步驟，重點是讓可動部位、遮罩部分分離出來，讓L2D可以做出動態效果
+>A：拆圖是一個在進行[L2D](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/tree/main/Live2D-Cubism)模型製作前一個極為重要的步驟，重點是讓可動部位、遮罩部分分離出來，讓[L2D](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/tree/main/Live2D-Cubism)可以做出動態效果
 
 ## 文章教學
 [[LIVE2D-Vtuber]拆圖解說](https://www.mosouriya.com/post/live2d-vtuber-%E6%8B%86%E5%9C%96%E8%A7%A3%E8%AA%AA) from [Zonecha宗茶](https://www.mosouriya.com/)
