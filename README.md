@@ -23,11 +23,16 @@
 ### [Live2D Cubism](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/tree/main/Live2D-Cubism)
 ### [拆圖](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/tree/main/%E6%8B%86%E5%9C%96)
 
-## Vtuber 面捕軟體
+## Vtuber 2D 面捕軟體
 
 ### VTube Studio (🚧施工中)
 ### Facerig  (🚧施工中)
 ### PrprLive  (🚧施工中)
+
+## Vtuber 3D 面捕軟體
+
+### VSeeFace  (🚧施工中)
+### VMagicMirror  (🚧施工中)
 
 ## 實況軟體
 
@@ -39,8 +44,13 @@
 ### [多平台實況(obs-multi-rtmp) ](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/tree/main/obs-multi-rtmp)
 ### NDI-OBS  (🚧施工中)
 
+## 聊天室軟體
+
+### わんコメOneComme  (🚧施工中)
+### RutonyChat  (🚧施工中)
+
 ## 多人合作
->跳跳的功能主要在通話時自動閃爍說話者的圖片，為一種較簡單的合作方式
+>跳跳的功能主要在通話時自動閃爍說話者的圖片，為一種較簡單的Vtuber合作方式
 
 ### 跳跳(Reactive Image)  (🚧施工中)
 ### 跳跳(Discord Streamkit)  (🚧施工中)
