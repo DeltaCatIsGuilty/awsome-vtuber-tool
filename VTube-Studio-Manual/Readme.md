@@ -1,8 +1,8 @@
 # VTube Studio Manual (VTS)
 > 此文件為 [VTube Studio Manual](https://github.com/DenchiSoft/VTubeStudio/wiki) 的非官方繁體中文翻譯（已獲得官方授權）
-
+> 
 > 若有內容錯誤或是新內容釋出尚未翻譯，請透過 [Issues](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/issues) 提出
-
+> 
 > 更新日期 2023/02/25 by [DeltaCat](https://github.com/DeltaCatIsGuilty)
 
 ![](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/logo/vts_logo_with_name.png)
@@ -10,7 +10,7 @@
 ## 目錄
 
 ### VTS 指南
-- Home
+- [Home](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/blob/main/VTube-Studio-Manual/Home.md)
 - 插件
 
 ### 幫助
