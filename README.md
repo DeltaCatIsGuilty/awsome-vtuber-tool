@@ -26,11 +26,6 @@
 ### [Live2D Cubism](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/tree/main/Live2D-Cubism)
 ### [拆圖](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/tree/main/%E6%8B%86%E5%9C%96)
 
-## Vtuber 2D 面捕軟體
-
-### VTube Studio (🚧施工中)
-### PrprLive  (🚧施工中)
-
 ## Vtuber 3D 面捕軟體
 
 ### VSeeFace  (🚧施工中)
@@ -68,3 +63,8 @@
 
 ### 綠界實況主贊助  (🚧施工中)
 ### StreamGadgetX  (🚧施工中)
+
+
+
+
+
