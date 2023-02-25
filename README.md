@@ -18,6 +18,9 @@
 
 * 使用 [此表單](https://forms.gle/ggS9xDQpo5W9wkV9A) 進行投稿
 
+## 繁體漢化
+### [VTube Studio Manual (VTS官方文件)](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/tree/main/VTube-Studio-Manual)
+
 ## Vtuber 動畫製作
 
 ### [Live2D Cubism](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/tree/main/Live2D-Cubism)
@@ -26,7 +29,6 @@
 ## Vtuber 2D 面捕軟體
 
 ### VTube Studio (🚧施工中)
-### Facerig  (🚧施工中)
 ### PrprLive  (🚧施工中)
 
 ## Vtuber 3D 面捕軟體
@@ -66,8 +68,3 @@
 
 ### 綠界實況主贊助  (🚧施工中)
 ### StreamGadgetX  (🚧施工中)
-
-
-
-
-
