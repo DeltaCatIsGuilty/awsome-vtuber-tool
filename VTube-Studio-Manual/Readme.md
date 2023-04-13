@@ -58,7 +58,7 @@
 * FAQ
 * 隱私權政策,授權及更多規定
 
-[![](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/akari_fly_all_sequence_small.png)](https://github.com/DenchiSoft/VTubeStudio/wiki/_Secret-Page)
+[![](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/akari_fly_all_sequence_small.png)](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/blob/main/VTube-Studio-Manual/_Secret%20Page.md)
 
 
 
