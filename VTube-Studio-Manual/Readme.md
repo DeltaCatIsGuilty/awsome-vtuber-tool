@@ -3,7 +3,7 @@
 > 
 > 若有內容錯誤或是新內容釋出尚未翻譯，請透過 [Issues](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/issues) 提出
 > 
-> 更新日期 2023/02/25 by [DeltaCat](https://github.com/DeltaCatIsGuilty)
+> 更新日期 2023/04/13 by [DeltaCat](https://github.com/DeltaCatIsGuilty)
 
 ![](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/logo/vts_logo_with_name.png)
 
@@ -11,13 +11,13 @@
 
 ### VTS 指南
 - [Home](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/blob/main/VTube-Studio-Manual/Home.md)
-- 插件
+- [插件](https://github.com/DeltaCatIsGuilty/awsome-vtuber-tool/blob/main/VTube-Studio-Manual/%E6%8F%92%E4%BB%B6.md)
 
 ### 幫助
-- Discord
-- Twitter
-- Website
-- Mail
+- [Discord](https://discord.gg/VTubeStudio)
+- [Twitter](https://twitter.com/VTubeStudio)
+- [Website](https://denchisoft.com/)
+- [Mail](mailto:denchi@denchisoft.com)
 
 ### 文件
 * 介紹 & 需求
