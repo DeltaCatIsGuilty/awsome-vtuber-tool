@@ -9,7 +9,7 @@
 
 ![image alt](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/kspCute.png)![image alt](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/kspCute.png)![image alt](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/kspCute.png)![image alt](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/kspCute.png)![image alt](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/kspCute.png)![image alt](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/kspCute.png)![image alt](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/kspCute.png)
 
-![image alt](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/akari_gif.gif =500x500)
+![image alt](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/akari_gif.gif)
 
 ><img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/kspDoki.png" width="25"/> 如果你有任何文件內沒有的疑問請至 [VTube Studio Discord<img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/discord_logo_new.png" width="30"/>]()提出您的問題!!
 
